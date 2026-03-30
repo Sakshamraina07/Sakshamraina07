@@ -1,0 +1,52 @@
+# ═══════════════════════════════════════════════════════════════════
+# FILE: .github/workflows/snake.yml
+# SETUP:
+#   1. In your profile repo (Sakshamraina07/Sakshamraina07), create
+#      the folder path: .github/workflows/
+#   2. Place THIS file inside it as: snake.yml
+#   3. Go to your repo Settings → Actions → General
+#      → Select "Allow all actions and reusable workflows" → Save
+#   4. Go to Actions tab → "Generate Snake" → Run workflow manually
+#   5. After it completes, the SVG will be in the `output` branch
+#   6. The README.md already references the correct URL — it will work!
+# ═══════════════════════════════════════════════════════════════════
+
+name: Generate Snake
+
+on:
+  # Auto-run every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+
+  # Allow manual trigger from GitHub Actions tab
+  workflow_dispatch:
+
+  # Also run whenever you push to main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # ── Step 1: Generate the Snake SVG ──────────────────────────────
+      - name: Generate github-contribution-grid-snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Light mode snake
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # ── Step 2: Push the output SVG to the `output` branch ──────────
+      - name: Push github-contribution-grid-snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -232,13 +232,10 @@ me.say_hi()
 │  ▸ Applied debugging & code optimization across cross-functional teams  │
 │  ▸ Improved user engagement through refined workflows & new features    │
 └─────────────────────────────────────────────────────────────────────────┘
-```
+
 
 ```
 
-```
-
----
 
 ## 🤝 Let's Connect
 

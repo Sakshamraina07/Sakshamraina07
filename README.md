@@ -52,7 +52,6 @@ me.say_hi()
 
 - 🔭 &nbsp;Backend & Full-Stack Engineer with experience at **Infosys** and **Rezuwizard**
 - ⚡ &nbsp;Passionate about scalable REST APIs, system design, and browser automation
-- 📚 &nbsp;Pursuing **B.E. Computer Engineering** at Marathwada Mitra Mandal's Institute of Technology, Pune — Graduating 2027
 - 💌 &nbsp;**sakshamraina16@gmail.com**
 
 ---

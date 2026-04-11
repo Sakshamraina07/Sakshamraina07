@@ -239,10 +239,7 @@ me.say_hi()
 ## 🎓 Education
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  🎓  Marathwada Mitra Mandal's Institute of Technology, Pune            │
-│  Major : Computer Engineering               Graduating : July 2027      │
-└─────────────────────────────────────────────────────────────────────────┘
+
 ```
 
 ---

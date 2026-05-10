@@ -5,10 +5,8 @@
 
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saksham%20Raina&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20Engineer&descSize=20&descAlignY=60&descColor=C084FC&animation=fadeIn)](https://github.com/Sakshamraina07)
-
-<!-- ── ROTATING TAGLINE ────────────────────────────────────────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=C084FC&center=true&vCenter=true&width=720&height=38&lines=Backend+%26+Full-Stack+Engineer;Scalable+API+%26+System+Design;Browser+Automation+%26+Extension+Dev;Machine+Learning+%7C+Computer+Vision;Open+to+Internships+%26+Full-Time+Roles" alt="Tagline" />
+<!-- ── NAME — elegant slide-in, freezes after one pass ── -->
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=64&duration=2000&pause=99999&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=SAKSHAM+RAINA" alt="Saksham Raina" />
 
 <br/><br/>
 
@@ -349,8 +347,8 @@ me.say_hi()
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║   "First, solve the problem. Then, write the code."      ║
-║                                          — John Johnson   ║
+║  "Make it work, make it right, make it fast."            ║
+║                                          — Kent Beck     ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -368,4 +366,23 @@ me.say_hi()
 
 </div>
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)](https://github.com/Sakshamraina07)
+<svg width="900" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="fw1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#9F7AEA;stop-opacity:0.4"/>
+      <stop offset="100%" style="stop-color:#C084FC;stop-opacity:0.2"/>
+    </linearGradient>
+    <linearGradient id="fw2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#C084FC;stop-opacity:0.5"/>
+      <stop offset="100%" style="stop-color:#7C3AED;stop-opacity:0.3"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="100" fill="url(#footerbg)"/>
+  <path d="M0,40 C150,10 300,60 450,30 C600,0 750,50 900,20 L900,0 L0,0 Z" fill="url(#fw1)"/>
+  <path d="M0,55 C200,20 400,65 600,35 C750,15 850,45 900,30 L900,0 L0,0 Z" fill="url(#fw2)"/>
+</svg>

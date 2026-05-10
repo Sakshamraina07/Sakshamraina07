@@ -1,16 +1,14 @@
 <!-- ████████████████████████████████████████████████████████████████████ -->
-<!--     SAKSHAM RAINA — GITHUB PROFILE README  ✦ DARK GOTHIC EDITION    -->
-<!--  Place this file at: Sakshamraina07/Sakshamraina07/README.md         -->
-<!--  Also copy the assets/ folder into the same repo                     -->
+<!--         SAKSHAM RAINA — GITHUB PROFILE README  ✦ DARK EDITION        -->
+<!--   Place this file at: Sakshamraina07/Sakshamraina07/README.md         -->
 <!-- ████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-<!-- ── NAME — animated typing effect ───────────────────────────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=48&duration=1&pause=99999&color=C084FC&center=true&vCenter=true&width=820&height=90&lines=Saksham+Raina" alt="Saksham Raina" />
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saksham%20Raina&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20Engineer&descSize=20&descAlignY=60&descColor=C084FC&animation=fadeIn)](https://github.com/Sakshamraina07)
 
 <!-- ── ROTATING TAGLINE ────────────────────────────────────────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=9F7AEA&center=true&vCenter=true&width=720&height=38&lines=Backend+%26+Full-Stack+Engineer;Scalable+API+%26+System+Design;Browser+Automation+%26+Extension+Dev;Machine+Learning+%7C+Computer+Vision;Open+to+Internships+%26+Full-Time+Roles" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=C084FC&center=true&vCenter=true&width=720&height=38&lines=Backend+%26+Full-Stack+Engineer;Scalable+API+%26+System+Design;Browser+Automation+%26+Extension+Dev;Machine+Learning+%7C+Computer+Vision;Open+to+Internships+%26+Full-Time+Roles" alt="Tagline" />
 
 <br/><br/>
 
@@ -52,102 +50,31 @@ me.say_hi()
 
 - 🔭 &nbsp;Backend & Full-Stack Engineer with experience at **Infosys** and **Rezuwizard**
 - ⚡ &nbsp;Passionate about scalable REST APIs, system design, and browser automation
+- 📚 &nbsp;Currently pursuing **B.E. in Computer Engineering** at MMIT, Pune — Graduating 2027
 - 💌 &nbsp;**sakshamraina16@gmail.com**
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience
 
-<div align="center">
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  🏢  Rezuwizard                              May 2025 – Aug 2025        │
+│  Role : Backend Engineering Intern                                       │
+│  ▸ Led end-to-end backend development of resume generation &            │
+│    user management services                                              │
+│  ▸ Designed scalable APIs, data models & secure authentication flows    │
+│  ▸ Reduced API latency through optimized DB schemas & workflows         │
+└─────────────────────────────────────────────────────────────────────────┘
 
-<!-- ── PROFILE METRICS — static shields.io badges ─────────────────── -->
-
-![Repos](https://img.shields.io/badge/Public_Repos-7-C084FC?style=for-the-badge&logo=github&logoColor=white)
-![Commits](https://img.shields.io/badge/Total_Commits-165+-9F7AEA?style=for-the-badge&logo=git&logoColor=white)
-![Stars](https://img.shields.io/badge/Stars_Earned-1-FF69B4?style=for-the-badge&logo=github&logoColor=white)
-![Followers](https://img.shields.io/badge/Followers-4-C084FC?style=for-the-badge&logo=github&logoColor=white)
-
-<br/>
-
-<!-- ── LANGUAGE BREAKDOWN — visual bars via badges ────────────────── -->
-
-![JavaScript](https://img.shields.io/badge/JavaScript-65%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-15%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-10%25-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-7%25-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-3%25-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</div>
-
----
-
-## 🏆 Trophies & Achievements
-
-<div align="center">
-
-<!-- ── ROW 1: Major achievements ──────────────────────────────────── -->
-
-![](https://img.shields.io/badge/🏆_High_Committer-165+_commits-00C853?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/⭐_First_Star-AutoReach-FFD700?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/🔥_Active_Developer-7_Repositories-FF6D00?style=for-the-badge&labelColor=0d1117)
-
-<br/>
-
-<!-- ── ROW 2: Career & skill achievements ────────────────────────── -->
-
-![](https://img.shields.io/badge/🏢_Infosys-Project_Intern_2024-9F7AEA?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/🏢_Rezuwizard-Backend_Intern_2025-C084FC?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/📈_Email_Automation-4×_Reply_Rate-FF69B4?style=for-the-badge&labelColor=0d1117)
-
-<br/>
-
-<!-- ── ROW 3: Tech mastery badges ────────────────────────────────── -->
-
-![](https://img.shields.io/badge/🤖_ML_System-Sign_Language_→_Speech-FF1493?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/☁️_AWS-EC2_|_S3_|_Lambda_|_RDS-232F3E?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/⚡_LeetCode-Active_Problem_Solver-FFA116?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,kotlin&theme=dark" />
-</p>
-
-### ⚛️ Frameworks &amp; Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,tailwind,tensorflow&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
-### ☁️ Cloud &amp; Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-</p>
-
-### 🔧 Tools &amp; DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vite,postman&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+┌─────────────────────────────────────────────────────────────────────────┐
+│  🏢  Infosys                                 Jun 2024 – Aug 2024        │
+│  Role : Project Intern                                                   │
+│  ▸ Developed & enhanced production-level features at enterprise scale   │
+│  ▸ Applied debugging & code optimization across cross-functional teams  │
+│  ▸ Improved user engagement through refined workflows & new features    │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -179,10 +106,36 @@ me.say_hi()
 - **🔧 Tech:** ReactJS · Vite · CRXJS · Manifest V3
 - Service workers + content scripts + React side panel UI
 - Handles dynamic DOM rendering in LinkedIn's React SPA
-- Intelligent autofill for inputs, dropdowns &amp; checkboxes
-- **🔐 CSP bypass** &amp; cross-context messaging architecture
+- Intelligent autofill for inputs, dropdowns & checkboxes
+- **🔐 CSP bypass** & cross-context messaging architecture
 
 [![Code](https://img.shields.io/badge/View_Code-C084FC?style=flat-square&logo=github&logoColor=white)](https://github.com/Sakshamraina07)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📱 Consistify
+> Habit Tracker Mobile App
+
+- **🔧 Tech:** Dart · Flutter
+- Cross-platform habit tracking & consistency builder
+- Clean UI focused on daily streaks and goal adherence
+
+[![Code](https://img.shields.io/badge/View_Code-C084FC?style=flat-square&logo=github&logoColor=white)](https://github.com/Sakshamraina07/Consistify)
+
+</td>
+<td width="50%">
+
+### ⛳ Golf Charity Subscription Platform
+> Subscription & Charity Management Web App
+
+- **🔧 Tech:** TypeScript · Node.js · REST APIs
+- Golf charity event subscription & management platform
+- Full-stack TypeScript implementation
+
+[![Code](https://img.shields.io/badge/View_Code-C084FC?style=flat-square&logo=github&logoColor=white)](https://github.com/Sakshamraina07/Golf-Charity-Subscription-Platform)
 
 </td>
 </tr>
@@ -201,7 +154,7 @@ me.say_hi()
 <td width="50%">
 
 ### 🧰 Rezuwizard — Backend Platform
-> Resume Generation &amp; User Management Services
+> Resume Generation & User Management Services
 
 - **🔧 Tech:** Node.js · MongoDB · REST APIs · AWS
 - End-to-end backend for resume generation at scale
@@ -214,28 +167,167 @@ me.say_hi()
 
 ---
 
-## 💼 Experience
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,kotlin,dart&theme=dark" />
+</p>
+
+### ⚛️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,tailwind,tensorflow,flutter&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+### ☁️ Cloud & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome_Extension_API-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+</p>
+
+### 🔧 Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vite,postman&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+## 🎓 Education
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│  🏢  Rezuwizard                              May 2025 – Aug 2025        │
-│  Role : Backend Engineering Intern                                       │
-│  ▸ Led end-to-end backend dev of resume generation & user mgmt services │
-│  ▸ Designed scalable APIs, data models & secure authentication flows    │
-│  ▸ Reduced API latency through optimized DB schemas & workflows         │
+│  🎓  Marathwada Mitra Mandal's Institute of Technology, Pune            │
+│  Major : Computer Engineering                  Graduating : July 2027   │
 └─────────────────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────────────────┐
-│  🏢  Infosys                                 Jun 2024 – Aug 2024        │
-│  Role : Project Intern                                                   │
-│  ▸ Developed & enhanced production-level features at enterprise scale   │
-│  ▸ Applied debugging & code optimization across cross-functional teams  │
-│  ▸ Improved user engagement through refined workflows & new features    │
-└─────────────────────────────────────────────────────────────────────────┘
-
-
 ```
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sakshamraina07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshamraina07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C084FC&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sakshamraina07&theme=tokyonight&hide_border=true&background=0d1117&stroke=C084FC&ring=C084FC&fire=ff6b6b&currStreakLabel=C084FC)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sakshamraina07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<!--
+  ⚙️ SETUP INSTRUCTIONS (one-time, ~5 minutes):
+  1. In your profile repo, create the file: .github/workflows/snake.yml
+     with the content shown below.
+  2. Go to repo Settings → Actions → General → set to "Allow all actions".
+  3. Go to Actions tab → find "Generate Snake" → click "Run workflow".
+  4. After it completes, the SVG will be committed to the `output` branch
+     and the image below will render automatically.
+
+  ── snake.yml content ──────────────────────────────────────────────────
+  name: Generate Snake
+
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: ${{ github.repository_owner }}
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  ───────────────────────────────────────────────────────────────────────
+-->
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Sakshamraina07/Sakshamraina07/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Saksham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sakshamraina07&theme=tokyo-night&bg_color=0d1117&color=C084FC&line=C084FC&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+
+![](https://img.shields.io/badge/🏢_Infosys-Project_Intern_2024-9F7AEA?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🏢_Rezuwizard-Backend_Intern_2025-C084FC?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/📈_Email_Automation-4×_Reply_Rate-FF69B4?style=for-the-badge&labelColor=0d1117)
+
+<br/>
+
+![](https://img.shields.io/badge/🤖_ML_System-Sign_Language_→_Speech-FF1493?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/☁️_AWS-EC2_|_S3_|_Lambda_|_RDS-232F3E?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/⚡_LeetCode-Active_Problem_Solver-FFA116?style=for-the-badge&labelColor=0d1117)
+
+<br/>
+
+![](https://img.shields.io/badge/🔌_Chrome_Extension-Manifest_V3_Expert-4285F4?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/📱_Flutter-Cross_Platform_Dev-02569B?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+---
 
 ## 🤝 Let's Connect
 
@@ -275,3 +367,5 @@ me.say_hi()
 > Support my work directly via UPI — every sip keeps the commits flowing ☕
 
 </div>
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)](https://github.com/Sakshamraina07)
